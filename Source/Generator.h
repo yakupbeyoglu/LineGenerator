@@ -25,12 +25,6 @@ private:
     Types::PointfList DDA (Gorgon::Geometry::Pointf &startpoint, Gorgon::Geometry::Pointf &endpoint);
     std::vector<Types::AnglePoints> dataset;
     std::string exportpath;
-    
-
 };
-
-
-
-
 
 #endif
